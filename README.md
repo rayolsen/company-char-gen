@@ -5,6 +5,9 @@ Run the script in IDE of choice (I used VScode)
 - The one script will just dump text into a terminal
 - The second one should print to your default (Still needs debugging)
 
+Todo:
+-   Craft an Exe of sorts
+
 Character Gen is an independent production by [Author or Publisher] and is
 not affiliated with THE COMPANY or MEGACORP Games. It is published under
 THE COMPANY Third Party License.
