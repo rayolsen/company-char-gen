@@ -1,0 +1,39 @@
+NAME:  Almo Quga       
+
+CAREER:  Medic:        
+
+HEALTH  STRESS  DRIVE
+╓───╖   ╓───╖   ╓───╖  
+║ 4 ║   ║   ║   ║   ║ 
+╙───╜   ╙───╜   ╙───╜
+AWARE: ☒ ☒ ☐
+
+SKILLS
+BODY: ☒ ☐ ☐
+DODGE: ☒ ☐ ☐
+FIGHT: ☐ ☐ ☐
+FIRST AID: ☒ ☐ ☐
+GUILE: ☐ ☐ ☐
+REPAIR: ☐ ☐ ☐
+RESEARCH: ☐ ☐ ☐
+SEARCH: ☐ ☐ ☐
+SNEAK: ☒ ☐ ☐
+HACK: ☒ ☐ ☐
+CAREER
+COMBAT: ☐ ☐ ☐
+MEDICINE: ☒ ☐ ☐
+HACK: ☐ ☐ ☐
+ENGINEER: ☐ ☐ ☐
+SCIENCE: ☐ ☐ ☐
+TECH: ☐ ☐ ☐
+╔═══════════════════════════╗
+Job: Ensure the physical well-being of 
+the team and any survivors
+╠═══════════════════════════╣
+Team Stress: Other employees take 
+stress when the Medic fails First Aid or 
+Medicine rolls Medicine rolls
+╠═══════════════════════════╣
+Loadout: Field Kit, Painkillers, 
+Scalpel, Aviator Sunglasses
+╚═══════════════════════════╝
